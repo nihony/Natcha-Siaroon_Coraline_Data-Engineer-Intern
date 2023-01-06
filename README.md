@@ -9,6 +9,6 @@ Contains 5 files
 
 #### **Answer of Python Script**
 is the folder of the second problem about API.
-Contains 2 files ( 2 files are identical but indifference file extension )
-1. Answer_ipynb_file.ipynb - Answer of the question in the second problem about API. ***( .ipynb file )***
-2. Answer_py_file.py - Answer of the question in the second problem about API. ***( .py file )***
+Contains 2 files ( 2 files are identical but in difference file extension )
+1. Answer_ipynb_file.ipynb - Answer of the second problem about API. ***( .ipynb file )***
+2. Answer_py_file.py - Answer of the second problem about API. ***( .py file )***
