@@ -2,7 +2,7 @@
 
 #### **Answer of SQL Script**
 is the folder of the first problem about movies database.
-Contains 5 files
+Contains 5 files.
 1. 1_SQL.sql - Answer of first question in the first problem about movies database.
 2. 2_SQL.sql - Answer of second question in the first problem about movies database.
 3. 3_SQL.sql - Answer of third question in the first problem about movies database.
@@ -11,6 +11,6 @@ Contains 5 files
 
 #### **Answer of Python Script**
 is the folder of the second problem about API.
-Contains 2 files ( 2 files are identical but in difference file extension )
+Contains 2 files ( 2 files are identical but in difference file extension ).
 1. Answer_ipynb_file.ipynb - Answer of the second problem about API. ***( .ipynb file )***
 2. Answer_py_file.py - Answer of the second problem about API. ***( .py file )***
