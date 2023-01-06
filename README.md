@@ -1,3 +1,5 @@
+## I'm Natcha Siaroon, candidate of Data Engineer Intern.
+
 #### **Answer of SQL Script**
 is the folder of the first problem about movies database.
 Contains 5 files
