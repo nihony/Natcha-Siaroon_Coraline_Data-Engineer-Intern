@@ -1,4 +1,4 @@
-## Natcha Siaroon, candidate of Data Engineer Intern.
+## Natcha Siaroon, candidate for Data Engineer Intern.
 
 #### **Answer of SQL Script**
 is the folder of the first problem about movies database.
